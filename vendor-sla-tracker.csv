@@ -1,0 +1,13 @@
+vendor,service,sla_target,measured_result,status,review_date,contact,notes
+Sample Internet Provider,Sample Office Internet,99.5% uptime,99.2% uptime,missed,2026-11-20,Sample Support Desk,Second month below target — escalate to team lead
+Sample Internet Provider,Sample Branch Internet,99.0% uptime,99.4% uptime,met,2026-11-20,Sample Support Desk,Stable this period
+Sample Cloud Host,Sample Website Hosting,99.9% uptime,99.9% uptime,met,2026-11-25,Sample Account Manager,Met exactly — watch the trend
+Sample Cloud Host,Sample Email Hosting,Respond within 4 hours,Responded in 2 hours,met,2026-11-25,Sample Account Manager,Fast response this period
+Sample Printer Vendor,Sample Printer Maintenance,Fix within 1 business day,Fixed in 2 business days,missed,2026-11-15,Sample Service Desk,Credit claimed in writing per contract
+Sample Printer Vendor,Sample Toner Supply,Deliver within 3 business days,Delivered in 2 business days,met,2026-11-15,Sample Service Desk,On time
+Sample Software Vendor,Sample Payroll Software,99.0% uptime,98.6% uptime,missed,2026-12-01,Sample Account Manager,Outage on sample date — vendor fix agreed
+Sample Software Vendor,Sample HR Software,Respond within 8 hours,Responded in 5 hours,met,2026-12-01,Sample Account Manager,Met
+Sample Phone Provider,Sample Office Phone Lines,99.5% uptime,99.5% uptime,at risk,2026-11-18,Sample Support Desk,Two short drops this month — watch next period
+Sample Phone Provider,Sample Mobile Plan,Deliver SIMs within 5 business days,Delivered in 4 business days,met,2026-11-18,Sample Support Desk,On time
+Sample Backup Vendor,Sample Offsite Backup,Backup completes daily,Completed 29 of 30 days,at risk,2026-11-28,Sample Account Manager,One failed night — re-run confirmed ok
+Sample Security Vendor,Sample Antivirus Updates,Updates within 24 hours,Updates within 12 hours,met,2026-11-28,Sample Account Manager,Met
